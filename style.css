@@ -1,0 +1,43 @@
+/*
+Theme Name: Pink Coquette Theme
+Author: Your Name
+Description: A cute, pink, girly WordPress theme with coquette vibes.
+Version: 1.0
+*/
+
+body {
+    font-family: 'Cursive', 'Arial', sans-serif;
+    background-color: #ffe4e1;
+    color: #ff69b4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffb6c1;
+    padding: 30px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Comic Sans MS', cursive;
+    color: #fff;
+}
+
+footer {
+    background-color: #ff69b4;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Cursive', sans-serif;
+}
+
+a {
+    color: #ff69b4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff1493;
+}
